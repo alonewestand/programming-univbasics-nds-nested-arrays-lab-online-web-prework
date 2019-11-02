@@ -1,6 +1,5 @@
 # Examples inspired by David Foster Wallace's # (2/21/1962 to 9/12/2008) _Infinite Jest_
 
-House_Academy = [
 ENNET_HOUSE = [
   "Don Gately",
   "Joelle van Dyne",
@@ -16,7 +15,7 @@ ENFIELD_TENNIS_ACADEMY = [
   "Mario Incandenza",
   "Michael Pemulis"
 ]
-]
+
 def assembled_matrix
   [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
 end
